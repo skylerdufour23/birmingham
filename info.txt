@@ -1,0 +1,1 @@
+iOS IPSW and Windows iTunes setup helper assets file layout.
