@@ -1,0 +1,6 @@
+{
+    "firmwares": [
+        {"version": "iOS 17.0", "build": "21A329", "device": "iPhone15,2"},
+        {"version": "iOS 16.6", "build": "20G75", "device": "iPhone14,3"}
+    ]
+}
